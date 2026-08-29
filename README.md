@@ -1,8 +1,8 @@
-\# PRINOVA
+PRINOVA
 
 
 
-\### Protein Representation and Latent Structure Analysis Platform
+---> Protein Representation and Latent Structure Analysis Platform
 
 
 
@@ -18,7 +18,7 @@ The platform provides an interactive web interface where users can upload embedd
 
 
 
-\## Features
+---> Features
 
 
 
@@ -56,7 +56,7 @@ The platform provides an interactive web interface where users can upload embedd
 
 
 
-\## Project Architecture
+---> Project Architecture
 
 
 
