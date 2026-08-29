@@ -1,0 +1,64 @@
+term,cluster_0_count,cluster_0_proportion,cluster_1_count,cluster_1_proportion,proportion_difference,enriched_cluster
+F:ATP binding,1,0.01,13,0.13,0.12000000000000001,1
+C:extracellular region,14,0.14,3,0.03,0.11000000000000001,0
+F:toxin activity,10,0.1,0,0.0,0.1,0
+F:iron ion binding,1,0.01,7,0.07,0.060000000000000005,1
+C:cytoplasm,12,0.12,18,0.18,0.06,1
+F:metal ion binding,3,0.03,9,0.09,0.06,1
+P:DNA-templated transcription,8,0.08,2,0.02,0.06,0
+F:zinc ion binding,8,0.08,2,0.02,0.06,0
+F:structural constituent of ribosome,14,0.14,9,0.09,0.05000000000000002,0
+P:translation,14,0.14,9,0.09,0.05000000000000002,0
+F:transferase activity,0,0.0,5,0.05,0.05,1
+C:nucleus,8,0.08,3,0.03,0.05,0
+P:terpenoid biosynthetic process,0,0.0,5,0.05,0.05,1
+F:monooxygenase activity,1,0.01,6,0.06,0.049999999999999996,1
+C:cytosol,7,0.07,12,0.12,0.04999999999999999,1
+F:oxidoreductase activity,3,0.03,7,0.07,0.04000000000000001,1
+P:photosynthesis,4,0.04,0,0.0,0.04,0
+P:fatty acid biosynthetic process,0,0.0,4,0.04,0.04,1
+F:tRNA binding,0,0.0,4,0.04,0.04,1
+"F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",0,0.0,4,0.04,0.04,1
+F:heme binding,0,0.0,4,0.04,0.04,1
+C:chloroplast thylakoid membrane,4,0.04,0,0.0,0.04,0
+C:membrane,11,0.11,7,0.07,0.039999999999999994,0
+C:ribosome,6,0.06,2,0.02,0.039999999999999994,0
+C:ribonucleoprotein complex,6,0.06,2,0.02,0.039999999999999994,0
+F:DNA-binding transcription factor activity,3,0.03,0,0.0,0.03,0
+F:phosphopantetheine binding,0,0.0,3,0.03,0.03,1
+F:methyltransferase activity,0,0.0,3,0.03,0.03,1
+P:methylation,0,0.0,3,0.03,0.03,1
+C:photosystem I,3,0.03,0,0.0,0.03,0
+C:immunoglobulin complex,0,0.0,3,0.03,0.03,1
+F:metalloendopeptidase activity,3,0.03,0,0.0,0.03,0
+F:GTP binding,0,0.0,3,0.03,0.03,1
+"F:2 iron, 2 sulfur cluster binding",0,0.0,3,0.03,0.03,1
+F:magnesium ion binding,3,0.03,6,0.06,0.03,1
+F:fatty acid synthase activity,0,0.0,3,0.03,0.03,1
+C:cytosolic small ribosomal subunit,1,0.01,4,0.04,0.03,1
+F:DNA binding,6,0.06,3,0.03,0.03,0
+F:NADP binding,0,0.0,3,0.03,0.03,1
+F:ATP hydrolysis activity,0,0.0,3,0.03,0.03,1
+F:GTPase activity,0,0.0,3,0.03,0.03,1
+P:carbohydrate metabolic process,0,0.0,3,0.03,0.03,1
+C:small ribosomal subunit,3,0.03,1,0.01,0.019999999999999997,0
+F:unfolded protein binding,1,0.01,3,0.03,0.019999999999999997,1
+"F:4 iron, 4 sulfur cluster binding",3,0.03,4,0.04,0.010000000000000002,1
+F:small ribosomal subunit rRNA binding,4,0.04,3,0.03,0.010000000000000002,0
+F:RNA binding,4,0.04,3,0.03,0.010000000000000002,0
+F:rRNA binding,5,0.05,4,0.04,0.010000000000000002,0
+P:adaptive immune response,3,0.03,4,0.04,0.010000000000000002,1
+C:exodeoxyribonuclease VII complex,2,0.02,1,0.01,0.01,0
+P:cell division,2,0.02,1,0.01,0.01,0
+"F:DNA-binding transcription factor activity, RNA polymerase II-specific",2,0.02,1,0.01,0.01,0
+F:mRNA binding,1,0.01,2,0.02,0.01,1
+P:DNA catabolic process,2,0.02,1,0.01,0.01,0
+C:DNA-directed RNA polymerase complex,2,0.02,1,0.01,0.01,0
+F:exodeoxyribonuclease VII activity,2,0.02,1,0.01,0.01,0
+F:DNA-directed RNA polymerase activity,2,0.02,1,0.01,0.01,0
+F:ribosome binding,2,0.02,1,0.01,0.01,0
+F:nucleotide binding,1,0.01,2,0.02,0.01,1
+C:chloroplast,2,0.02,1,0.01,0.01,0
+C:cytosolic large ribosomal subunit,3,0.03,2,0.02,0.009999999999999998,0
+C:plasma membrane,9,0.09,9,0.09,0.0,equal
+C:T cell receptor complex,3,0.03,3,0.03,0.0,equal

@@ -1,0 +1,3 @@
+term,cluster_0_count,cluster_1_count,cluster_0_proportion,cluster_1_proportion,odds_ratio,p_value,fdr_q_value,enriched_cluster
+F:ATP binding,1,13,0.01,0.13,0.0675990675990676,0.0012802958863776,0.0485746419512245,1
+F:toxin activity,10,0,0.1,0.0,inf,0.0015420521254357,0.0485746419512245,0

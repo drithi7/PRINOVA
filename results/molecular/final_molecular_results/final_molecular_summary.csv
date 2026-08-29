@@ -1,0 +1,12 @@
+metric,value
+Input embedding dimension,1024
+Selected representation,PCA
+Selected dimension,256
+Main PRINOVA score,0.925
+Reconstruction R2,0.8914
+Variance explained,90.96%
+Robustness,3/3 samples (100%)
+Best downstream clustering,64-D PCA + 2-component GMM
+Best silhouette,0.1465
+Original 256-D KMeans silhouette,0.0759
+FDR-significant biological terms,2

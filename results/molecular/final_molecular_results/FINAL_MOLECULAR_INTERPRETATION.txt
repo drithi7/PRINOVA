@@ -1,0 +1,76 @@
+
+PRINOVA — FINAL MOLECULAR INTERPRETATION
+=========================================
+
+DATA
+----
+The molecular experiment used 1,024-dimensional T5 protein embeddings.
+
+REPRESENTATION SELECTION
+------------------------
+PRINOVA selected PCA with a 256-dimensional latent representation.
+
+Main results:
+- PRINOVA score: 0.925
+- Reconstruction R2: 0.8914
+- Variance explained: 90.96%
+- Compression: 1024 -> 256 dimensions
+
+ROBUSTNESS
+----------
+The 256-dimensional recommendation was reproduced in all three
+independent resampling experiments:
+
+- Seed 42: 256 dimensions
+- Seed 123: 256 dimensions
+- Seed 456: 256 dimensions
+
+Recommendation consistency = 3/3 = 100%.
+
+DOWNSTREAM CLUSTERING
+---------------------
+The original 256-dimensional PCA + K-means clustering produced a
+silhouette score of approximately 0.0759.
+
+A systematic comparison of dimensionality and clustering algorithms
+identified 64-dimensional PCA + a two-component Gaussian Mixture Model
+as the strongest tested clustering configuration:
+
+- Dimension: 64
+- Clusters: 2
+- Method: Gaussian Mixture
+- Silhouette: 0.1465
+
+This is an improvement in geometric cluster separation, but the
+silhouette remains relatively low. Therefore, the clusters should not
+be described as strongly separated populations.
+
+BIOLOGICAL VALIDATION
+---------------------
+A sampled UniProt validation set was used to examine whether the
+64-dimensional GMM clusters corresponded to biological annotations.
+
+Two annotations were significant after Benjamini-Hochberg FDR correction:
+
+- ATP binding: FDR q = 0.0486, enriched in Cluster 1
+- Toxin activity: FDR q = 0.0486, enriched in Cluster 0
+
+These findings provide evidence of biological differentiation in the
+sampled validation set. They should not be generalized to the entire
+protein database without a larger independent validation set.
+
+OVERALL CONCLUSION
+------------------
+The molecular experiment supports PCA-256 as a stable, information-
+preserving PRINOVA representation for the 1,024-dimensional protein
+embeddings. The downstream analysis additionally suggests that a more
+aggressively compressed 64-dimensional representation can expose
+stronger geometric cluster structure under a probabilistic clustering
+model. Biological annotation analysis provides preliminary evidence
+that these clusters are not purely geometric, with two GO annotations
+remaining significant after FDR correction.
+
+The representation-selection result and clustering result answer
+different questions and should therefore be reported separately rather
+than treating 64 dimensions as a replacement for the 256-dimensional
+PRINOVA recommendation.

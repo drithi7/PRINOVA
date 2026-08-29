@@ -1,0 +1,121 @@
+term,total_count,cluster_0_count,cluster_0_proportion,cluster_1_count,cluster_1_proportion,proportion_difference,enriched_cluster
+F:structural constituent of ribosome,31,0,0.0,31,0.31,0.31,1
+P:translation,31,0,0.0,31,0.31,0.31,1
+C:cytoplasm,36,7,0.07,29,0.29,0.21999999999999997,1
+C:cytosol,23,2,0.02,21,0.21,0.19,1
+F:ATP binding,21,2,0.02,19,0.19,0.17,1
+F:rRNA binding,16,0,0.0,16,0.16,0.16,1
+C:extracellular region,18,17,0.17,1,0.01,0.16,0
+P:terpenoid biosynthetic process,11,11,0.11,0,0.0,0.11,0
+C:ribonucleoprotein complex,10,0,0.0,10,0.1,0.1,1
+C:membrane,12,11,0.11,1,0.01,0.1,0
+C:ribosome,10,0,0.0,10,0.1,0.1,1
+F:RNA binding,9,1,0.01,8,0.08,0.07,1
+C:nucleus,8,7,0.07,1,0.01,0.060000000000000005,0
+C:cytosolic large ribosomal subunit,6,0,0.0,6,0.06,0.06,1
+C:cytosolic small ribosomal subunit,6,0,0.0,6,0.06,0.06,1
+C:small ribosomal subunit,6,0,0.0,6,0.06,0.06,1
+"F:4 iron, 4 sulfur cluster binding",6,0,0.0,6,0.06,0.06,1
+F:metal ion binding,17,6,0.06,11,0.11,0.05,1
+F:magnesium ion binding,10,3,0.03,7,0.07,0.04000000000000001,1
+F:transferase activity,6,5,0.05,1,0.01,0.04,0
+P:adaptive immune response,4,4,0.04,0,0.0,0.04,0
+F:small ribosomal subunit rRNA binding,4,0,0.0,4,0.04,0.04,1
+C:immunoglobulin complex,4,4,0.04,0,0.0,0.04,0
+F:monooxygenase activity,4,4,0.04,0,0.0,0.04,0
+F:FAD binding,4,4,0.04,0,0.0,0.04,0
+F:oxidoreductase activity,8,6,0.06,2,0.02,0.039999999999999994,0
+P:methylation,7,5,0.05,2,0.02,0.030000000000000002,0
+F:carboxylic ester hydrolase activity,3,3,0.03,0,0.0,0.03,0
+F:fatty acid synthase activity,3,3,0.03,0,0.0,0.03,0
+F:dioxygenase activity,3,3,0.03,0,0.0,0.03,0
+F:mRNA binding,3,0,0.0,3,0.03,0.03,1
+P:immune response,3,3,0.03,0,0.0,0.03,0
+C:Golgi membrane,3,3,0.03,0,0.0,0.03,0
+F:translation elongation factor activity,3,0,0.0,3,0.03,0.03,1
+F:toxin activity,3,3,0.03,0,0.0,0.03,0
+P:ribosomal small subunit assembly,3,0,0.0,3,0.03,0.03,1
+F:terpene synthase activity,3,3,0.03,0,0.0,0.03,0
+P:secondary metabolite biosynthetic process,3,3,0.03,0,0.0,0.03,0
+"F:DNA-binding transcription factor activity, RNA polymerase II-specific",3,3,0.03,0,0.0,0.03,0
+F:phosphopantetheine binding,3,3,0.03,0,0.0,0.03,0
+F:DNA binding,8,3,0.03,5,0.05,0.020000000000000004,1
+P:DNA-templated transcription,8,5,0.05,3,0.03,0.020000000000000004,0
+F:four-way junction DNA binding,2,0,0.0,2,0.02,0.02,1
+P:mycophenolic acid biosynthetic process,2,2,0.02,0,0.0,0.02,0
+F:adenine phosphoribosyltransferase activity,2,0,0.0,2,0.02,0.02,1
+"F:oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor",2,0,0.0,2,0.02,0.02,1
+P:gibberellin biosynthetic process,2,2,0.02,0,0.0,0.02,0
+C:HslUV protease complex,2,0,0.0,2,0.02,0.02,1
+C:nuclear membrane,2,2,0.02,0,0.0,0.02,0
+P:carbohydrate metabolic process,2,2,0.02,0,0.0,0.02,0
+C:Golgi apparatus,2,2,0.02,0,0.0,0.02,0
+C:chloroplast,6,4,0.04,2,0.02,0.02,0
+F:C-C chemokine binding,2,2,0.02,0,0.0,0.02,0
+F:heme binding,2,2,0.02,0,0.0,0.02,0
+F:GTPase activity,2,0,0.0,2,0.02,0.02,1
+C:T cell receptor complex,2,2,0.02,0,0.0,0.02,0
+P:lactone biosynthetic process,2,2,0.02,0,0.0,0.02,0
+P:purine ribonucleoside salvage,2,0,0.0,2,0.02,0.02,1
+"F:proton-transporting ATPase activity, rotational mechanism",2,2,0.02,0,0.0,0.02,0
+F:quinone binding,2,0,0.0,2,0.02,0.02,1
+F:NADH dehydrogenase (ubiquinone) activity,2,0,0.0,2,0.02,0.02,1
+C:extracellular space,2,2,0.02,0,0.0,0.02,0
+C:Holliday junction resolvase complex,2,0,0.0,2,0.02,0.02,1
+P:'de novo' IMP biosynthetic process,2,0,0.0,2,0.02,0.02,1
+F:nucleic acid binding,2,0,0.0,2,0.02,0.02,1
+P:protein transport by the Sec complex,2,0,0.0,2,0.02,0.02,1
+P:protein import,2,0,0.0,2,0.02,0.02,1
+P:DNA repair,2,0,0.0,2,0.02,0.02,1
+C:DNA-directed RNA polymerase complex,2,0,0.0,2,0.02,0.02,1
+F:protein-exporting ATPase activity,2,0,0.0,2,0.02,0.02,1
+C:endoplasmic reticulum membrane,2,2,0.02,0,0.0,0.02,0
+F:DNA-directed RNA polymerase activity,2,0,0.0,2,0.02,0.02,1
+P:DNA recombination,2,0,0.0,2,0.02,0.02,1
+P:RNA processing,2,0,0.0,2,0.02,0.02,1
+P:SOS response,2,0,0.0,2,0.02,0.02,1
+P:protein targeting,2,0,0.0,2,0.02,0.02,1
+F:isomerase activity,2,2,0.02,0,0.0,0.02,0
+C:large ribosomal subunit,2,0,0.0,2,0.02,0.02,1
+P:adenine salvage,2,0,0.0,2,0.02,0.02,1
+P:intracellular protein transmembrane transport,2,0,0.0,2,0.02,0.02,1
+F:O-methyltransferase activity,2,2,0.02,0,0.0,0.02,0
+"F:2 iron, 2 sulfur cluster binding",2,0,0.0,2,0.02,0.02,1
+C:very-low-density lipoprotein particle,2,2,0.02,0,0.0,0.02,0
+C:high-density lipoprotein particle,2,2,0.02,0,0.0,0.02,0
+F:hydrolase activity,2,2,0.02,0,0.0,0.02,0
+C:extracellular exosome,2,2,0.02,0,0.0,0.02,0
+F:four-way junction helicase activity,2,0,0.0,2,0.02,0.02,1
+P:AMP salvage,2,0,0.0,2,0.02,0.02,1
+C:cell envelope Sec protein transport complex,2,0,0.0,2,0.02,0.02,1
+C:mitochondrion,2,2,0.02,0,0.0,0.02,0
+C:Holliday junction helicase complex,2,0,0.0,2,0.02,0.02,1
+C:NADH dehydrogenase complex,2,0,0.0,2,0.02,0.02,1
+F:methyltransferase activity,4,3,0.03,1,0.01,0.019999999999999997,0
+F:zinc ion binding,10,4,0.04,6,0.06,0.019999999999999997,1
+F:iron ion binding,4,1,0.01,3,0.03,0.019999999999999997,1
+P:cell division,4,1,0.01,3,0.03,0.019999999999999997,1
+F:GTP binding,4,1,0.01,3,0.03,0.019999999999999997,1
+C:plasma membrane,22,12,0.12,10,0.1,0.01999999999999999,0
+P:aromatic amino acid family biosynthetic process,3,1,0.01,2,0.02,0.01,1
+P:amino acid biosynthetic process,3,1,0.01,2,0.02,0.01,1
+"F:proton-transporting ATP synthase activity, rotational mechanism",3,2,0.02,1,0.01,0.01,0
+F:protein dimerization activity,3,1,0.01,2,0.02,0.01,1
+F:ATP hydrolysis activity,3,1,0.01,2,0.02,0.01,1
+P:regulation of DNA-templated transcription,3,2,0.02,1,0.01,0.01,0
+C:cell surface,3,1,0.01,2,0.02,0.01,1
+P:chorismate biosynthetic process,3,1,0.01,2,0.02,0.01,1
+F:nucleotide binding,3,2,0.02,1,0.01,0.01,0
+P:fatty acid biosynthetic process,5,3,0.03,2,0.02,0.009999999999999998,0
+F:tRNA binding,5,2,0.02,3,0.03,0.009999999999999998,1
+F:nucleotidyltransferase activity,2,1,0.01,1,0.01,0.0,equal
+P:tRNA thio-modification,2,1,0.01,1,0.01,0.0,equal
+P:cell wall organization,2,1,0.01,1,0.01,0.0,equal
+C:chloroplast thylakoid membrane,2,1,0.01,1,0.01,0.0,equal
+C:proton-transporting ATP synthase complex,2,1,0.01,1,0.01,0.0,equal
+P:tRNA processing,2,1,0.01,1,0.01,0.0,equal
+P:lipid transport,2,1,0.01,1,0.01,0.0,equal
+F:sulfurtransferase activity,2,1,0.01,1,0.01,0.0,equal
+P:mRNA processing,2,1,0.01,1,0.01,0.0,equal
+F:3-deoxy-7-phosphoheptulonate synthase activity,2,1,0.01,1,0.01,0.0,equal
+F:lyase activity,2,1,0.01,1,0.01,0.0,equal

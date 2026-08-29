@@ -1,0 +1,3 @@
+dimension,clusters,method,silhouette,comparison
+64,2,GaussianMixture,0.1465244889259338,Best tested configuration
+256,2,KMeans,0.0758782551,Original 256-D clustering
